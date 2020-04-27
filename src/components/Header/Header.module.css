@@ -1,11 +1,12 @@
 .headerArea {
-  width: 880px;
+  width: 60vw;
   height: 180px;
   padding: 10px;
 }
 
 @media (max-width: 770px) {
-  .image {
-    width: 50%;
+  .img {
+    width: 30%;
+    height: 10%;
   }
 }
