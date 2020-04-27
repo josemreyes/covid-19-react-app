@@ -1,0 +1,11 @@
+.headerArea {
+  width: 880px;
+  height: 180px;
+  padding: 10px;
+}
+
+@media (max-width: 770px) {
+  .image {
+    width: 50%;
+  }
+}
